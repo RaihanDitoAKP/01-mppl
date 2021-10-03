@@ -23,7 +23,7 @@ Agile Software Development memiliki tujuan sebagai berikut :
 6 Model Metode Pengembangan Perangkat Lunak:
 
 
-        1. Metode Waterfall:
+        -Metode Waterfall:
 Waterfall merupakan metode pengembangan perangkat lunak tradisional yang sistematis. Metode ini memiliki lima tahapan proses, di antaranya Communication, Planning, Modeling, Construction, dan Deployment.
 
 Communication merupakan fase di mana pelanggan atau pemilik proyek menyampaikan kebutuhan dan permasalahannya kepada pengembang. Lalu, bersama-sama mengumpulkan data-data yang diperlukan dan merumuskan fitur-fitur perangkat lunak.
@@ -43,7 +43,7 @@ Metode waterfall melibatkan berbagai proses yang sistematis dan komprehensif. Su
 Sistem dalam metode waterfall merupakan proses yang baku, sehingga pengembang sulit melakukan improvisasi. Itulah mengapa metode ini dianggap kurang efektif dan seringkali hanya dipakai dalam pengembangan perangkat lunak atau sistem berskala besar.
 
 
-        2. Metode Prototype:
+        -Metode Prototype:
 Prototype dalam bahasa Indonesia diartikan dengan istilah purwarupa. Istilah tersebut berarti model awal atau rancangan sementara yang masih membutuhkan berbagai penyesuaian sebelum dinyatakan telah memenuhi hasil yang diinginkan.
 
 Terdapat lima tahapan dalam pengembangan perangkat lunak menggunakan metode prototype. Dimulai dengan pengumpulan informasi dari pelanggan ke tim pengembang. Lalu, tim akan merencanakan sistem dan mengerjakan purwarupa perangkat lunak.Hasilnya kemudian diserahkan kepada pelanggan untuk dievaluasi. Jika terdapat permasalahan, tim akan merevisi sistem tersebut hingga benar-benar sesuai dengan kebutuhan pelanggan.
@@ -51,7 +51,7 @@ Terdapat lima tahapan dalam pengembangan perangkat lunak menggunakan metode prot
 Ketika revisi selesai dan telah diterima, berarti perangkat lunak telah siap diterjemahkan ke dalam perangkat keras. Kemudian, dilanjutkan dengan proses uji coba dan berbagai revisi sebelum mulai dapat digunakan.
 
 
-        3. Metode Spiral:
+        -Metode Spiral:
 Metode spiral menggabungkan dua metode pengembangan yang telah dibahas sebelumnya, yaitu prototype dan waterfall. Pengembang melaksanakan prototyping dengan cara sistematis khas metode waterfall.
 
 Umumnya metode spiral diterapkan dalam pengembangan perangkat lunak berskala besar, sekaligus membutuhkan sistem yang kompleks. Setiap prosesnya selalu disertai dengan analisis mendalam mengenai tingkat risiko dan keberhasilan pengembangan.
